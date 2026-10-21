@@ -1,2 +1,2 @@
 # Programmers-Rabbit-Hole
-Yes
+Just a repo where I dump stuff I play around with.
